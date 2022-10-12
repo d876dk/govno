@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\s0169457\source\repos\Project1\Project1\Source.cpp(27,22): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\s0169457\source\repos\Project1\Project1\Source.cpp(48,23): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Project1.vcxproj -> C:\Users\s0169457\source\repos\Project1\x64\Debug\Project1.exe

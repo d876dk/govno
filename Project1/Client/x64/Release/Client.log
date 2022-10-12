@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\s0169457\source\repos\Project1\Client\Source.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\s0169457\source\repos\Project1\Client\Source.cpp(40,26): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Client.vcxproj -> C:\Users\s0169457\source\repos\Project1\x64\Release\Client.exe
